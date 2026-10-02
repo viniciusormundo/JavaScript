@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": 101,
+    "nome": "Torno CNC",
+    "setor": "Usinagem",
+    "operacional": true
+  },
+  {
+    "codigo": 102,
+    "nome": "Prensa 100T",
+    "setor": "Estamparia",
+    "operacional": false
+  },
+  {
+    "codigo": 103,
+    "nome": "Furadeira Industrial",
+    "setor": "Montagem",
+    "operacional": true
+  }
+]
